@@ -1,0 +1,31 @@
+com/latihan/a10118320/fragments/PageFragment3.java
+ com.latihan.a10118320.fragments.PageFragment3
+com/latihan/a10118320/BuildConfig.java
+ com.latihan.a10118320.BuildConfig
+com/latihan/a10118320/MainActivity.java
+ com.latihan.a10118320.MainActivity
+ com.latihan.a10118320.MainActivity$1
+com/latihan/a10118320/FragmentProfile.java
+ com.latihan.a10118320.FragmentProfile
+com/latihan/a10118320/AddActivity.java
+ com.latihan.a10118320.AddActivity
+com/latihan/a10118320/FragmentViewpager.java
+ com.latihan.a10118320.FragmentViewpager
+com/latihan/a10118320/DBHelper.java
+ com.latihan.a10118320.DBHelper
+com/latihan/a10118320/CustomCursorAdapter.java
+ com.latihan.a10118320.CustomCursorAdapter
+ com.latihan.a10118320.CustomCursorAdapter$MyHolder
+com/latihan/a10118320/fragments/PageFragment2.java
+ com.latihan.a10118320.fragments.PageFragment2
+com/latihan/a10118320/SplashScreen.java
+ com.latihan.a10118320.SplashScreen
+ com.latihan.a10118320.SplashScreen$1
+com/latihan/a10118320/EditActivity.java
+ com.latihan.a10118320.EditActivity
+com/latihan/a10118320/fragments/PageFragment1.java
+ com.latihan.a10118320.fragments.PageFragment1
+com/latihan/a10118320/SlidepagerAdapter.java
+ com.latihan.a10118320.SlidepagerAdapter
+com/latihan/a10118320/FragmentHome.java
+ com.latihan.a10118320.FragmentHome
