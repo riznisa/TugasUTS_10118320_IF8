@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">10118320</string>
+    <string name="judul_1">Mencatat tanpa ribet</string>
+    <string name="isi_1">Hanya modal ketik dan otomatis jadi catatan</string>
+
+    <string name="judul_2">Hanya genggaman</string>
+    <string name="isi_2">Dengan smartphone, tak perlu membawa buku catatan</string>
+
+    <string name="judul_3">Ayo tunggu apalagi?</string>
+    <string name="isi_3">Segera isi catatan anda</string>
+</resources>

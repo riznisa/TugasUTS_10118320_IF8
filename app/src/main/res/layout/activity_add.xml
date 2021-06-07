@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddActivity"
+    android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="10dp">
+            
+            <EditText
+                android:id="@+id/listID_add"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+
+            <EditText
+                android:id="@+id/txTitle_add"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Judul" />
+
+            <EditText
+                android:id="@+id/txKategori_add"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Kategori"
+                android:inputType="textMultiLine"/>
+
+            <EditText
+                android:id="@+id/txIsi_add"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Isi Catatan"
+                android:inputType="textMultiLine"
+                android:scrollbars="vertical"/>
+
+
+
+        </LinearLayout>
+</RelativeLayout>

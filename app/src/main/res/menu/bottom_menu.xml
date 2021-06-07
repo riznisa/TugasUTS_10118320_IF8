@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/ic_person"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/menu_info"
+        android:icon="@drawable/ic_icons8_info"
+        android:title="Info App" />
+
+    //05/06/2021_10118320_Raden Rizka M Nisa_IF8
+</menu>
